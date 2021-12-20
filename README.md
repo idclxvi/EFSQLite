@@ -2,6 +2,7 @@
 EFSQLite tests
 
 # After 1st and then 2nd run:
+```
 sqlite3 /Users/curly/.local/share/EFSQLite/db.sqlite
 SQLite version 3.36.0 2021-06-18 18:58:49
 Enter ".help" for usage hints.
@@ -26,4 +27,4 @@ sqlite> select * from users;
 3|c1
 4|123456789012345678901234567890
 sqlite> 
-
+```
